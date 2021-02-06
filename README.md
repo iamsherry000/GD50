@@ -1,6 +1,5 @@
 # GD50
 CS50's Introduction to Game Development.
-https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0
 
 ### Games will be learned.
 1. Pong
@@ -15,3 +14,9 @@ https://online-learning.harvard.edu/course/cs50s-introduction-game-development?d
 10. Dreadhalls
 11. Portal
 12. Portal Problems
+-----------------------------
+
+
+courses from 
+-----------------------------------------------------------------------------------------
+https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0
