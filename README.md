@@ -17,9 +17,9 @@ README
 ### 12. [Portal Problems](#PortalProblems)
 -------------------------------------------------
 ## Installing 
-*LoVE2D
-    * https://love2d.org/#download
-    * https://love2d.org/wike/Getting_Started
+   *LoVE2D
+      * https://love2d.org/#download
+      * https://love2d.org/wike/Getting_Started
 -------------------------------------------------
 
 
