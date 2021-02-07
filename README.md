@@ -4,17 +4,17 @@ README
 
 ## Games will be learned.
 ### 1. [Pong](#Pong)
-### 2. [Flappy Bird](#Flappy Bird)
+### 2. [Flappy Bird](#FlappyBird)
 ### 3. [BreakOut](#BreakOut)
 ### 4. [Match3](#Match3)
-### 5. [Super Mario Bros](#Super Mario Bros)
-### 6. [Legend of Zelda](#Legend of Zelda)
-### 7. [Angry Birds](#Angry Birds)
+### 5. [Super Mario Bros](#SuperMarioBros)
+### 6. [Legend of Zelda](#LegendofZelda)
+### 7. [Angry Birds](#AngryBirds)
 ### 8. [Pokemon](#Pokemon)
-### 9. [3D-Helicopter Game](#3D-Helicopter Game)
+### 9. [3D-Helicopter Game](#3D-HelicopterGame)
 ### 10.[Dreadhalls](#Dreadhalls)
 ### 11. [Portal](#Portal)
-### 12. [Portal Problems](#Portal Problems)
+### 12. [Portal Problems](#PortalProblems)
 -------------------------------------------------
 ## Installing 
 *LoVE2D
